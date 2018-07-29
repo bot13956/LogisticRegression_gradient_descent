@@ -75,7 +75,7 @@ class lrGD(object):
         return sigmoid(np.dot(X, self.w_[1:]) + self.w_[0])
     
     def activation(self, X):
-        """Compute linear activation"""
+        """Compute logistic activation"""
         return self.net_input(X)
     
     def predict(self, X):
