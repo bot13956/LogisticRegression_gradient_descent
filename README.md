@@ -14,7 +14,7 @@ Created on Jul 28, 2018
  
 # @author: Benjamin Tayo
 
-iris.data.csv: contains the iris dataset obtained from: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data The dataset contains the following Attribute Information:sepal length in cm; sepal width in cm; petal length in cm; petal width in cm.
+iris.data.csv: contains the iris dataset obtained from: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data The dataset contains the following Attribute Information: sepal length in cm; sepal width in cm; petal length in cm; petal width in cm.
 Class labels: Iris Setosa, Iris Versicolour, Iris Virginica
 
 LogisticRegressionG.ipynb:Jupiter notebook file containing the code.
