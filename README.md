@@ -5,7 +5,7 @@ The weights used for computing the activation function are optimized by minimizi
 using the gradient-descent method. 
 
 For more information about the logistic regression classifier and the log-likelihood cost function, see the following
-book: "Python Machine Learning" by Sebastian Raschka (Chapter 3)
+book: "Python Machine Learning" by Sebastian Raschka (Chapter 3).
   
 This code is a modification of the Adaptive Linear Neuron (Adaline) code provided in the above-mentioned book.
 
